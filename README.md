@@ -25,11 +25,11 @@ less than 5. It will make it easier for the graders to submit a repo with a gh-p
 
 ## Machine Learning Model ##
 
-As can be seen from the confusion matrix this model is very accurate. I did experiment with PCA and other models, but did not get as good of accuracy. Because my test data was around 99% accurate I expected nearly all of the submitted test cases to be correct. It turned out they were all correct.
+**Tool:** [XGBoost](https://github.com/dmlc/xgboost), an implementation of tree-based extreme gradient boosting algorithm. A very fast and accurate method to do cross validation, fitting and predicting.   
 
 ## HTML report page (gh-pages) ##
 
-Please open [this GitHub link](http://tandra22.github.io/practical-machine-learning/).  
+Please open [this GitHub link](http://tandra22.github.io/datasciencecoursera/).  
 
 The HTML file is in the `gh-pages` branch.    
 The R markdown file (Rmd) is in the `master` branch.  
